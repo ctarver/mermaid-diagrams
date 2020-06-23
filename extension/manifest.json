@@ -19,7 +19,7 @@
       "run_at": "document_start",
       "matches": [
         "https://*.visualstudio.com/*",
-        "https://github.com/*",
+        "https://github.*.com/*",
         "https://gist.github.com/*",
         "https://bitbucket.org/*"
       ],
